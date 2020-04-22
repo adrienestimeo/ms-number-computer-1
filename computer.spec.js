@@ -3,6 +3,7 @@
 const should = require('chai').should();
 const expect = require('chai').expect;
 const computer = require('./computer');
+
 // TODO: Create our computer function test here
 
 describe('Computer test suit', () => {
